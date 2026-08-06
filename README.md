@@ -1,3 +1,13 @@
+<!-- repo-branding:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo-horizontal-light.png">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/logo-horizontal.png">
+    <img src=".github/assets/logo-horizontal.png" alt="Suno Cover" width="720">
+  </picture>
+</p>
+<!-- repo-branding:end -->
+
 # SUNO Cover Song Processor - Upload ANY song to suno
 
 ![Screenshot](screenshot.png)
